@@ -4,11 +4,18 @@
 
 This project represents a collaborative effort with four of my peers to redesign the Goodreads app, serving as my introduction to Figma and the world of UI/UX design. We chose Goodreads due to its popularity among avid readers and the unique challenge presented by its redundant interface, offering an opportunity to address complex UI issues and enhance user experience.
 
-<img src="gifs/_1_.gif" width="250" alt="Goodreads Redesign Login">
-<img src="gifs/_2_.gif" width="250" alt="Goodreads Redesign Mainpage Scroll">
-<img src="gifs/_3_.gif" width="250" alt="Goodreads Redesign Shelves">
-<img src="gifs/_4_.gif" width="250" alt="Goodreads Redesign Logout">
-
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="gifs/_1_.gif" width="250" alt="Goodreads Redesign Login"></td>
+      <td><img src="gifs/_2_.gif" width="250" alt="Goodreads Redesign Mainpage Scroll"></td>
+    </tr>
+    <tr>
+      <td><img src="gifs/_3_.gif" width="250" alt="Goodreads Redesign Shelves"></td>
+      <td><img src="gifs/_4_.gif" width="250" alt="Goodreads Redesign Logout"></td>
+    </tr>
+  </table>
+</div>
 
 Our approach focused on solving key UI challenges, including streamlining navigation, improving content discoverability, and creating a more visually appealing interface. By tackling these issues, we aimed to transform the app's functionality while maintaining its core purpose.
 
