@@ -10,14 +10,19 @@ This project represents a collaborative effort with four of my peers to redesign
       <td><img src="gifs/_1_.gif" width="250" alt="Goodreads Redesign Login"></td>
       <td><img src="gifs/_2_.gif" width="250" alt="Goodreads Redesign Mainpage Scroll"></td>
     </tr>
+  </table>
+</div>
+
+Our approach focused on solving key UI challenges, including streamlining navigation, improving content discoverability, and creating a more visually appealing interface. By tackling these issues, we aimed to transform the app's functionality while maintaining its core purpose.
+
+<div align="center">
+  <table>
     <tr>
       <td><img src="gifs/_3_.gif" width="250" alt="Goodreads Redesign Shelves"></td>
       <td><img src="gifs/_4_.gif" width="250" alt="Goodreads Redesign Logout"></td>
     </tr>
   </table>
 </div>
-
-Our approach focused on solving key UI challenges, including streamlining navigation, improving content discoverability, and creating a more visually appealing interface. By tackling these issues, we aimed to transform the app's functionality while maintaining its core purpose.
 
 For the UX component, we conducted surveys with Goodreads users to gain insights into their pain points and desired improvements. This user-centered approach allowed us to identify and prioritize features that would significantly enhance the overall user experience.
 
